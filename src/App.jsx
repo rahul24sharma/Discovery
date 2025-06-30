@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 // import Layout from './components/Layout/Layout';
-import Header from './components/header';
+// import Header from './components/header';
+import Header from "./components/Header"
 import Footer from './components/Footer';
 import WelcomeToast from './components/WelcomeToast';
 import LoadingScreen from './components/LoadingScreen';
