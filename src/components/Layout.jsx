@@ -2,7 +2,7 @@ import { Toaster } from "react-hot-toast";
 
 const Layout = ({ children }) => {
   return (
-<div className="min-h-screen relative overflow-hidden bg-gradient-to-br from-white via-rose-50 to-rose-100/30 backdrop-blur-[2px]">      {" "}
+<div className="min-h-screen relative overflow-hidden bg-gradient-to-br from-white via-pink-200 to-rose-100/30 backdrop-blur-[2px]">      {" "}
       <Toaster
         containerClassName="mt-4"
         toastOptions={{
