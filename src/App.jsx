@@ -10,6 +10,7 @@ import QuestionView from './components/QuestionView';
 import ProductResult from './components/ProductResult';
 import { useLocalStorage, useWelcomeBack } from './hooks/useLocalStorage';
 import { products } from './data/products';
+import "./App.css"
 
 function App() {
   const [selectedOption, setSelectedOption] = useLocalStorage('bellaOterSelection', null);
