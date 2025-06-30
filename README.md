@@ -4,11 +4,11 @@
 
 A beautiful, mobile-first product discovery experience built with React, Three.js, and Tailwind CSS.
 
-## Time Spent: 2.5 hours
+## Time Spent: 1.5 hours
 
 ## Features
 - Mobile-first responsive design
-- 3D floating background animations
+- Component based struvture
 - Smooth transitions and micro-interactions
 - localStorage for returning users
 - Custom SVG branding
@@ -16,11 +16,22 @@ A beautiful, mobile-first product discovery experience built with React, Three.j
 ## What I'd improve with more time
 - Add more sophisticated 3D models
 - Implement gesture controls for mobile
-- Add A/B testing for different question variations
 - Progressive web app capabilities
 - Advanced analytics tracking
 
-## How to run
-1. `npm install`
-2. `npm start`
-3. Open http://localhost:3000
+## 🚀 Quick Start
+Prerequisites
+
+Node.js (v16 or higher)
+npm or yarn
+
+Installation
+ Clone the repository
+git clone ["https://github.com/rahul24sharma/Discovery"]
+cd bella-oter-discovery
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
