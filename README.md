@@ -7,8 +7,9 @@ A beautiful, mobile-first product discovery experience built with React, Three.j
 ## Time Spent: 1.5 hours
 
 ## Features
+- Add Backend/Database to fetched similiar type of data for a specific title
 - Mobile-first responsive design
-- Component based struvture
+- Component based structure
 - Smooth transitions and micro-interactions
 - localStorage for returning users
 - Custom SVG branding

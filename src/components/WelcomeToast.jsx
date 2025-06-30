@@ -18,9 +18,6 @@ const WelcomeToast = ({ welcomeData }) => {
               </p>
               <span className="text-rose-400 text-base md:text-lg">✨</span>
             </div>
-            <p className="text-stone-500 text-xs">
-              Last time you craved <span className="font-medium text-stone-600 capitalize">{welcomeData.selection}</span>
-            </p>
             <p className="text-stone-400 text-xs italic">
               {welcomeData.timeAgo}
             </p>
